@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.venv*/
+.Python
+
+# IDEs
+.vscode/
+.idea/
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Data / models (optional - you may want to keep model)
+*.csv
